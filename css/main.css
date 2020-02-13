@@ -57,7 +57,7 @@
       margin: auto;
       width: 200px;
       height: 200px;
-      background: url("../img/portrait.jpg");
+      background: url("/dist/img/myimage-small.jpg");
       border-radius: 50%;
       border: solid 3px #1affa3; }
   .menu .nav-item {
@@ -105,7 +105,7 @@ body {
   line-height: 1.5;
   overflow: auto; }
   body#bg-img {
-    background: url("..dist/img/background.jpg");
+    background: url("/dist/img/background.jpg");
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img:after {
