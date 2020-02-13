@@ -57,7 +57,7 @@
       margin: auto;
       width: 200px;
       height: 200px;
-      background: url("../img/portrait.jpg");
+      background: url(../img/portrait.jpg);
       border-radius: 50%;
       border: solid 3px #1affa3; }
   .menu .nav-item {
