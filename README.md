@@ -14,7 +14,13 @@ Original code repository: https://github.com/bradtraversy/modern_portfolio.
 
 Link: https://kristoffer1922.github.io/MyMainPortfolio/
 
-To run, install:
+To run, type:
 
-npm
-sass
+npm run sass
+
+
+To update: 
+
+git add .
+git commit -m ""
+npm run deploy
