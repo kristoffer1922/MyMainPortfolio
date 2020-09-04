@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://kristoffer1922.github.io/MainPortfolio",
   "devDependencies": {
-    "node-sass": "4.13.0"
+    "node-sass": "4.14.1"
   },
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css --recursive",
